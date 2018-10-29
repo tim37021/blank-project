@@ -1,0 +1,7 @@
+[requires]
+imgui/1.62@bincrafters/stable
+glfw/3.2.1@bincrafters/stable
+glad/0.1.24@bincrafters/stable
+
+[generators]
+cmake
